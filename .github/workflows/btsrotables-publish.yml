@@ -1,5 +1,4 @@
 name: PublishBTSRotables
-
 on:
   push:
     branches: 
