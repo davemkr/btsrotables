@@ -1,4 +1,4 @@
-name: S3 Deploy ingridmeaker.com
+name: S3 Deploy btsrotables.com
 on:
   workflow_dispatch:
   page_build:
