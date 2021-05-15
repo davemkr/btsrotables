@@ -44,7 +44,7 @@
     "robotsSwitcher": false,
     "favicon": false,
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118066434-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118066434-1');\r\n</script>\r\n<script type=\"application/ld+json\">\r\n{\r\n  \"@context\": \"http://schema.org\",\r\n  \"@id\":\"btsrotables.com\",\r\n  \"@type\": \"localBusiness\",\r\n  \"name\": \"Bay Transmission Services\",\r\n  \"telephone\": \"+27(82)442-1810\",\r\n  \"legalName\": \"Bay Transmission Services cc\",\r\n  \"url\": \"https://btsrotables.com\",\r\n  \"image\": \"http://btsrotables.com/assets/images/bts-logo-transparent-700-735x731.png\",\r\n  \"logo\": \"http://btsrotables.com/assets/images/bts-logo-transparent-700-735x731.png\",\r\n  \"foundingDate\": \"1997\",\r\n  \"founders\": [\r\n    {\r\n      \"@type\": \"Person\",\r\n      \"name\": \"Andrew Meaker\"\r\n    }\r\n  ],\r\n  \"description\": \"Deep engineering experience and attentive client focus. A winning combination for a high quality custom service that meets your needs.\",\r\n  \"address\": {\r\n    \"@type\": \"PostalAddress\",\r\n    \"streetAddress\": \"34 Alexander Ave\",\r\n    \"addressLocality\": \"Northdene\",\r\n    \"addressRegion\": \"Queensborough\",\r\n    \"postalCode\": \"4093\",\r\n    \"addressCountry\": \"RSA\"\r\n  },\r\n  \"geo\": {\r\n    \"@type\": \"GeoCoordinates\",\r\n    \"latitude\": -29.852756,\r\n    \"longitude\": 30.889245\r\n  },\r\n  \"contactPoint\": {\r\n    \"@type\": \"ContactPoint\",\r\n    \"contactType\": \"customer support\",\r\n    \"telephone\": \"[+27-82-442-1810]\",\r\n    \"email\": \"andrew@btsrotables.co.za\"\r\n  }\r\n}\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-24X03NCRWB\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-24X03NCRWB');\n</script>",
     "siteUrl": "https://btsrotables.com",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
@@ -93,7 +93,7 @@
     "imageResize": true,
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "dlkpthve1n"
+    "mbrsiteDomain": "1p9veggmag"
   },
   "pages": {
     "index.html": {
