@@ -94,7 +94,7 @@
     "gdpr": false,
     "mbrsiteDomain": "xvevkxyce0",
     "cookiesAlert": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
